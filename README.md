@@ -1,4 +1,10 @@
-### Hi there 👋
+## 🌱내가 공부 중인 것들
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+
+</details>
+
+## Backend
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choyeongju)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **choyeongju/choyeongju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
