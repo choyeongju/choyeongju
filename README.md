@@ -2,7 +2,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Yeongju Cho </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 묵묵히 한걸음씩 나아가는 백엔드 개발자 조영주입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> BackEnd Developer </div> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li> </div> 
     </div>
     <div align= "center">
