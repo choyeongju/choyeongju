@@ -1,10 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,100:FFB347&height=200&section=header&text=choyeongju&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
+### 🎓 Education
+- Soongsil University **화학공학과** (2021.03 ~ 2022.12)
+- Soongsil University **컴퓨터학부** (2023.01 ~ Current)
+
+&nbsp;
+
 ### 🌟 Activities
 - 숭실대학교 컴퓨터학부 소모임 OS 부원 (2023.03 ~ Current)
-- 대학생연합 IT벤처창업 동아리 SOPT 34기 SERVER (2024.03 ~ 2024.07)
-- 대학생연합 IT벤처창업 동아리 SOPT 35기 SERVER (2024.09 ~ 2025.01)
-- 대학생연합 IT벤처창업 동아리 SOPT 36기 SERVER (2025.03 ~ 2025.07)
+- 대학생연합 IT벤처창업 동아리 [SOPT](https://sopt.org/) 34기 SERVER (2024.03 ~ 2024.07)
+- 대학생연합 IT벤처창업 동아리 [SOPT](https://sopt.org/) 35기 SERVER (2024.09 ~ 2025.01)
+- 대학생연합 IT벤처창업 동아리 [SOPT](https://sopt.org/) 36기 SERVER (2025.03 ~ 2025.07)
 - 숭실 튜터링 35기 [튜터] 30시간 (2024.09-2024.12)
 
 &nbsp;
