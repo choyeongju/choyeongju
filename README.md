@@ -1,40 +1,32 @@
-<div align= "center">
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Yeongju Cho </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> BackEnd Developer </div> 
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li> </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-          </div>
-    </div>
-   
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,100:FFB347&height=200&section=header&text=choyeongju&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<!--
-**choyeongju/choyeongju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Activities
+- 숭실대학교 컴퓨터학부 소모임 OS 부원 (2023.03 ~ Current)
+- 대학생연합 IT벤처창업 동아리 SOPT 34기 SERVER (2024.03 ~ 2024.07)
+- 대학생연합 IT벤처창업 동아리 SOPT 35기 SERVER (2024.09 ~ 2025.01)
+- 대학생연합 IT벤처창업 동아리 SOPT 36기 SERVER (2025.03 ~ 2025.07)
+- 숭실 튜터링 35기 [튜터] 30시간 (2024.09-2024.12)
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🟨 Certifications
+
+| 자격증 | 발급처 |
+|--------|--------|
+| 정보처리기사 (Engineer Information Processing) | 한국산업인력공단 |
+| SQLD (SQL 개발자 자격증) | 한국데이터산업진흥원 |
+| GTQ 2급 (Graphic Technology Qualification) | 한국생산성본부 |
+| 컴퓨터활용능력 2급 | 대한상공회의소 |
+| ICDL (International Computer Driving License) | 한국생산성본부 |
+| 정보기술자격(ITQ) 인터넷검색 A급 | 한국생산성본부 |
+| 정보기술자격(ITQ) 엑셀 A급 | 한국생산성본부 |
+| 정보기술자격(ITQ) 파워포인트 A급 | 한국생산성본부 |
+| 정보기술자격(ITQ) 아래한글 A급 | 한국생산성본부 |
+
+&nbsp;
+
+### 🌞 My GitHub Stats
+<a href="https://github.com/choyeongju">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=choyeongju&show_icons=true&include_all_commits=true&theme=nord" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyeongju&layout=compact&theme=nord" />
+</a>
