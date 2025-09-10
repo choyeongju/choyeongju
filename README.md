@@ -1,8 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,100:FFB347&height=200&section=header&text=choyeongju&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-### 🎓 Education
+### 📒 Education
 - Soongsil University **화학공학과** (2021.03 ~ 2022.12)
 - Soongsil University **컴퓨터학부** (2023.01 ~ Current)
+
+&nbsp;
+
+### ✨ Contacts
+- jjudy1301@naver.com
 
 &nbsp;
 
@@ -15,7 +20,7 @@
 
 &nbsp;
 
-### 🟨 Certifications
+### 🏆 Certifications
 
 | 자격증 | 발급처 |
 |--------|--------|
@@ -31,7 +36,45 @@
 
 &nbsp;
 
-### 🌞 My GitHub Stats
+### 💡 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java_17-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-4A90E2?style=for-the-badge"/>
+</p>
+
+&nbsp;
+
+### 🌞 GitHub Stats
 <a href="https://github.com/choyeongju">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=choyeongju&show_icons=true&include_all_commits=true&theme=nord" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyeongju&layout=compact&theme=nord" />
