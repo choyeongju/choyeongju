@@ -25,7 +25,7 @@ I aim to design **clean architecture** and build servers that remain
 - 대학생연합 IT벤처창업 동아리 [SOPT](https://sopt.org/) 34기 SERVER (2024.03 ~ 2024.07)
 - 대학생연합 IT벤처창업 동아리 [SOPT](https://sopt.org/) 35기 SERVER (2024.09 ~ 2025.01)
 - 대학생연합 IT벤처창업 동아리 [SOPT](https://sopt.org/) 36기 SERVER (2025.03 ~ 2025.07)
-- 숭실 튜터링 35기 [튜터] 30시간 (2024.09-2024.12)
+- 숭실 튜터링 35기 [튜터-컴퓨터네트워크] 30시간 (2024.09-2024.12)
 
 &nbsp;
 
