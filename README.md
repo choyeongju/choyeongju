@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD93D,100:FFB347&height=200&section=header&text=choyeongju&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
+### 💛 About Me
+I’m **Yeongju Cho**, a backend developer who believes that  
+**well-structured, maintainable systems** are more valuable than **quick fixes**.  
+
+I aim to design **clean architecture** and build servers that remain  
+**reliable today, tomorrow, and in the future**.
+
+&nbsp;
+
 ### 📒 Education
 - Soongsil University **화학공학과** (2021.03 ~ 2022.12)
 - Soongsil University **컴퓨터학부** (2023.01 ~ Current)
