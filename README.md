@@ -36,9 +36,9 @@ I aim to design **clean architecture** and build servers that remain
 |--------|--------|
 | 정보처리기사 (Engineer Information Processing) | 한국산업인력공단 |
 | SQLD (SQL 개발자 자격증) | 한국데이터산업진흥원 |
-| GTQ 2급 (Graphic Technology Qualification) | 한국생산성본부 |
 | 컴퓨터활용능력 2급 | 대한상공회의소 |
-| ICDL (International Computer Driving License) | 한국생산성본부 |
+| GTQ 2급 (Graphic Technology Qualification) | 한국생산성본부 |
+| ICDL Profile Certificate(ICDL Start Certificate) | 한국생산성본부 |
 | 정보기술자격(ITQ) 인터넷검색 A급 | 한국생산성본부 |
 | 정보기술자격(ITQ) 엑셀 A급 | 한국생산성본부 |
 | 정보기술자격(ITQ) 파워포인트 A급 | 한국생산성본부 |
