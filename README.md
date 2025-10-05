@@ -20,13 +20,15 @@ I aim to design **clean architecture** and build servers that remain
 
 &nbsp;
 
-### 🌟 Activities
+### 🌟 Activities & Awards
 - 숭실대학교 컴퓨터학부 소모임 OS 부원 (2023.03 ~ Current)
-- 대학생연합 IT벤처창업 동아리 [SOPT](https://sopt.org/) 34기 SERVER (2024.03 ~ 2024.07)
-- 대학생연합 IT벤처창업 동아리 [SOPT](https://sopt.org/) 35기 SERVER (2024.09 ~ 2025.01)
-- 대학생연합 IT벤처창업 동아리 [SOPT](https://sopt.org/) 36기 SERVER (2025.03 ~ 2025.07)
+- 대학생연합 IT벤처창업 동아리 **[SOPT](https://sopt.org/) 34기, 35기, 36기 SERVER** (2024.03 ~ 2025.07)
+  - 34기 AppJam – NutShell : **최우수상** 수상
+  - 36기 SOPKATHON – 감자가자 : **외부 협력사 특별상** 수상
+  - 36기 AppJam – Hilingual : **대상 및 특별상** 수상
 - 숭실 튜터링 35기 [튜터-컴퓨터네트워크] 30시간 (2024.09-2024.12)
-- [Google Developer Groups](https://gdg.community.dev/) on Campus Soongsil 5기 Member (2025.09 ~ Current)
+- **[Google Developer Groups](https://gdg.community.dev/) on Campus Soongsil** 5기 Member (2025.09 ~ Current)
+
 
 &nbsp;
 
