@@ -34,17 +34,18 @@ I aim to design **clean architecture** and build servers that remain
 
 ### 🏆 Certifications
 
-| 자격증 | 발급처 |
-|--------|--------|
-| 정보처리기사 (Engineer Information Processing) | 한국산업인력공단 |
-| SQLD (SQL 개발자 자격증) | 한국데이터산업진흥원 |
-| 컴퓨터활용능력 2급 | 대한상공회의소 |
-| GTQ 2급 (Graphic Technology Qualification) | 한국생산성본부 |
-| ICDL Profile Certificate(ICDL Start Certificate) | 한국생산성본부 |
-| 정보기술자격(ITQ) 인터넷검색 A급 | 한국생산성본부 |
-| 정보기술자격(ITQ) 엑셀 A급 | 한국생산성본부 |
-| 정보기술자격(ITQ) 파워포인트 A급 | 한국생산성본부 |
-| 정보기술자격(ITQ) 아래한글 A급 | 한국생산성본부 |
+| 자격증 | 발급처 | 합격일자 |
+|--------|--------|----------|
+| 정보처리기사 (Engineer Information Processing) | 한국산업인력공단 | 2025.06.13 |
+| SQLD (SQL 개발자) | 한국데이터산업진흥원 | 2024.09.20 |
+| 컴퓨터활용능력 2급 | 대한상공회의소 | 2015.05.01 |
+| GTQ 2급 (Graphic Technology Qualification) | 한국생산성본부 | 2015.01.16 |
+| ICDL Profile Certificate (ICDL Start Certificate) | 한국생산성본부 | 2014.09.30 |
+| ITQ OA Master | 한국생산성본부 | 2014.02.10 | 
+| 정보기술자격(ITQ) 엑셀 A급 | 한국생산성본부 | 2014.07.03 |
+| 정보기술자격(ITQ) 인터넷검색 A급 | 한국생산성본부 | 2014.01.29 |
+| 정보기술자격(ITQ) 파워포인트 A급 | 한국생산성본부 | 2013.09.12 |
+| 정보기술자격(ITQ) 아래한글 A급 | 한국생산성본부 | 2013.03.14 |
 
 &nbsp;
 
