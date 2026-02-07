@@ -37,6 +37,7 @@ I aim to design **clean architecture** and build servers that remain
 
 | 자격증 | 발급처 | 합격일자 |
 |--------|--------|----------|
+| SAP Certified Associate | SAP | 2026.02.04 |
 | 정보처리기사 (Engineer Information Processing) | 한국산업인력공단 | 2025.06.13 |
 | SQLD (SQL 개발자) | 한국데이터산업진흥원 | 2024.09.20 |
 | 컴퓨터활용능력 2급 | 대한상공회의소 | 2015.05.01 |
