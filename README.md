@@ -17,6 +17,9 @@ I aim to design **clean architecture** and build servers that remain
 ### ✨ Contacts
 - jjudy1301@naver.com
 
+### ✏️ Tech Blog
+- https://velog.io/@bcachu/posts
+
 &nbsp;
 
 ### 🌟 Activities & Awards
