@@ -26,7 +26,7 @@ I aim to design **clean architecture** and build servers that remain
 - **숭실대학교 제2회 재학생 학습법 경진대회(Learn With 에듀테크) "대상"** 수상 (2026.02.11)
 - **숭실대학교 공공데이터 활용 경진대회 "대상"** 수상 (2026.01.20)
 - **[Google Developer Groups](https://gdg.community.dev/) on Campus Soongsil** 5기 Member (2025.09 ~ Current)
-- 대학생연합 IT벤처창업 동아리 **[SOPT](https://sopt.org/) 34기, 35기, 36기 SERVER** (2024.03 ~ 2025.07)
+- 대학생연합 IT벤처창업 동아리 **[SOPT](https://sopt.org/) 34기, 35기, 36기 SERVER** (2024.03 ~ 2025.08)
   - 34기 AppJam – NutShell : **최우수상** 수상
   - 36기 SOPKATHON – 감자가자 : **외부 협력사 특별상** 수상
   - 36기 AppJam – Hilingual : **대상 및 특별상** 수상
