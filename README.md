@@ -9,13 +9,16 @@ I aim to design **clean architecture** and build servers that remain
 
 &nbsp;
 
-### 📒 Education
-- Soongsil University **컴퓨터학부** (2021.03 ~ Current)
+### 💼 Career
+- **신한투자증권** ICT 개발부 자산운용팀 (2026.06.22 ~ Current)
 
 &nbsp;
 
-### ✨ Contacts
-- jjudy1301@naver.com
+### 📒 Education
+- Soongsil University **컴퓨터학부** (2021.03 ~ 2026.07)
+
+&nbsp;
+
 
 ### ✏️ Tech Blog
 - https://velog.io/@bcachu/posts
