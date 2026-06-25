@@ -15,7 +15,7 @@ I aim to design **clean architecture** and build servers that remain
 &nbsp;
 
 ### 📒 Education
-- Soongsil University **컴퓨터학부** (2021.03 ~ 2026.07)
+- Soongsil University **컴퓨터학부** (2021.03 ~ 2026.08)
 
 &nbsp;
 
