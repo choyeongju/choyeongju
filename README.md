@@ -10,7 +10,7 @@ I aim to design **clean architecture** and build servers that remain
 &nbsp;
 
 ### 💼 Career
-- **신한투자증권** ICT 개발부 자산운용팀 (2026.06.22 ~ Current)
+- **신한투자증권** ICT개발부 상품개발팀 (2026.06.22 ~ Current)
 
 &nbsp;
 
